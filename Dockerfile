@@ -1,4 +1,4 @@
-FROM kevinstueber/alpine-erlang:23.0
+FROM kevinstueber/alpine-erlang:latest
 
 MAINTAINER Paul Schoenfelder <paulschoenfelder@gmail.com>
 
